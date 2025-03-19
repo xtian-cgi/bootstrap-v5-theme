@@ -155,3 +155,27 @@ Version 4
       })
 </script>
 ```
+
+### Design token variables
+ - Added design tokens variables to overrides values of bootstrap.
+
+### Navbar
+
+- Added highlight `--bcds-theme-primary-gold` design token on hover
+- Added dropdown in navigation bar
+- Added Offcanvas feature
+
+### Buttons
+
+- change the color of btn-primary to `--bcds-surface-color-primary-button-default` design token
+- change the color of btn.disabled to `--bcds-surface-color-primary-button-disabled` design token
+
+### Pills
+
+- change active and on hover background color
+- active background color to `--bcds-surface-color-primary-button-default`
+- hover background color to `--bs-nav-pills-link-active-bg`
+
+### Accordion
+
+- Added accordion feature
